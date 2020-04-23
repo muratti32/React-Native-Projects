@@ -4,7 +4,7 @@ App that I made using React-Native
 
 |   |   |
 |---|---|    
-| <img src="https://github.com/muratti32/shopping-list/blob/master/img/proje.gif" width="600" />  | > [ **Shopping List :** ](https://github.com/muratti32/shopping-list).<br> A simple shopping list application |
+| <img src="https://github.com/muratti32/shopping-list/blob/master/img/proje.gif" width="250" />  | > [ **Shopping List :** ](https://github.com/muratti32/shopping-list).<br> A simple shopping list application |
 
 
 MIT License
