@@ -8,8 +8,9 @@ App that I made using React-Native
 
 | <img src="https://github.com/muratti32/Realm-Example/blob/master/img/ios.gif" width="175" />   <img src="https://github.com/muratti32/Realm-Example/blob/master/img/android.gif" width="175" /> | [ **Realm Sample** ](https://github.com/muratti32/Realm-Example)<br> Example use of the realm database engine |
 
-| <img src="https://github.com/muratti32/shopping-list/blob/master/img/proje.gif" width="400" />  | > [ **Shopping List** ](https://github.com/muratti32/shopping-list).<br> A simple shopping list application |
-| <img src="https://github.com/muratti32/message/blob/master/img/message.gif" width="400" />   | > [ **Messaging App** ](https://github.com/muratti32/message).<br> A Messaging app homepage |
+| <img src="https://github.com/muratti32/shopping-list/blob/master/img/proje.gif" width="350" />  | > [ **Shopping List** ](https://github.com/muratti32/shopping-list).<br> A simple shopping list application |
+
+| <img src="https://github.com/muratti32/message/blob/master/img/message.gif" width="350" />   | > [ **Messaging App** ](https://github.com/muratti32/message).<br> A Messaging app homepage |
 
 
 
