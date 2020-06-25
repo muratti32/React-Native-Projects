@@ -12,7 +12,7 @@ App that I made using React-Native
 
 | <img src="https://github.com/muratti32/message/blob/master/img/message.gif" width="350" />   | > [ **Messaging App** ](https://github.com/muratti32/message).<br> A Messaging app homepage |
 
-
+|---|---| 
 
 MIT License
 
