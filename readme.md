@@ -5,14 +5,10 @@ App that I made using React-Native
 |   |   |
 |---|---|    
 | <img src="https://github.com/muratti32/twitter-clone/blob/master/images/video.gif" width="350" />  | [ **React Native Twitter clone** ](https://github.com/muratti32/twitter-clone)<br> <br><br><br>** React Native Twitter clone ** <br><br><br> IOS and Android version |
-
 | <img src="https://github.com/muratti32/Realm-Example/blob/master/img/ios.gif" width="175" />   <img src="https://github.com/muratti32/Realm-Example/blob/master/img/android.gif" width="175" /> | [ **Realm Sample** ](https://github.com/muratti32/Realm-Example)<br> <br> Example use of the realm database engine <br><br><br>|
-
 | <img src="https://github.com/muratti32/shopping-list/blob/master/img/proje.gif" width="350" />  | > [ **Shopping List** ](https://github.com/muratti32/shopping-list).<br> A simple shopping list application |
-
 | <img src="https://github.com/muratti32/message/blob/master/img/message.gif" width="350" />   | > [ **Messaging App** ](https://github.com/muratti32/message).<br> A Messaging app homepage |
 
-|---|---| 
 
 MIT License
 
